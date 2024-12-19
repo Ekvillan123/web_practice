@@ -1,0 +1,31 @@
+.first{
+    height: 40vh;
+    width: 75vw;
+    background-color:green;
+    margin: 0;
+    padding: 0;
+}
+.second{
+    height: 40vh;
+    width: 50vw;
+    background-color:white;
+    margin: 0;
+    padding: 0;
+}
+.third{
+    height: 40vh;
+    width: 25vw;
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-size: 3em
+}
+.em-container{
+    font-size: 2em;
+}
+.rem-container{
+    font-size: 2rem;
+}
